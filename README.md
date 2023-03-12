@@ -1,2 +1,2 @@
-# Test_app_apium_python
+# Test_app_appium_python
 Test app with appium-python-client
